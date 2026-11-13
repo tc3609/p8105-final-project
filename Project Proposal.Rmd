@@ -1,0 +1,44 @@
+---
+title: "Project Proposal"
+author: "Risa Dickerman"
+date: "2026-11-13"
+output: github_document
+---
+**Group Members**
+
+The following students worked on this project: Joanna Chuang (tc3609), Sameera Reem Imthiaz (sri2121), Vidhi Patel (vyp2105), Tiffany Lam (tl3576), and Risa Dickerman (ryd2106). 
+
+**Project Title**
+
+Who Runs the World? Rats! 
+
+**Project Motivation**
+
+Rodent activity is a persistent issue in New York City, raising concerns about sanitation, public health, and quality of life. Our project aims to understand how rodent activity varies across NYC neighborhoods and investigate how socioeconomic, environmental, and policy-related factors may be associated with these differences. 
+
+**Intended Final Products**
+
+* An interactive map highlighting rodent hotspots and year-wise rodent activity from 2014 to 2024 in Manhattan, with time-series plots showcasing seasonal and yearly patterns. 
+* Visualizations exploring distribution of rodent activity in relation with socioeconomic status, and population density. 
+* An interactive map comparing rodent activity in Rat Mitigation Zones (RMZs) and non-RMZ neighborhoods, along with before-and-after visualizations of rodent activity to assess the effectiveness of NYC rat-control initiatives. 
+
+**Anticipated Data Sources** 
+
+Our anticipated data sources are [Rodent Inspection](https://data.cityofnewyork.us/Health/Rodent-Inspection/p937-wjvj/about_data), 
+311 rodent-related requests (
+[2020 to Present](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2020-to-Present/erm2-nwe9/about_data) and 
+[2010 to 2019](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-2019/76ig-c548/about_data)), American Community Survey 5-year Detailed Tables (B19001, B17001, B25014, and B01003) accessed through the 
+[Census Data API](https://www.census.gov/data/developers/data-sets/acs-5year.html), [Gazetteer Files](https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html), [MapPLUTO](https://www.nyc.gov/content/planning/pages/resources/datasets/mappluto-pluto-change), and [Rat Mitigation Zone reports](https://a816-dohbesp.nyc.gov/IndicatorPublic/data-features/rat-report/).
+
+**Planned Analyses / Visualizations / Coding Challenges**
+
+Our project will examine geographic and temporal patterns in rodent activity across Manhattan using maps, time-series plots, and statistical analyses. We will identify rat hotspots, explore associations with population density and socioeconomic factors, and assess seasonal trends and the impact of trash regulations. We will also evaluate Rat Mitigation Zones (RMZs) by comparing rodent activity within and around these areas. Key challenges include integrating datasets, aligning geographic boundaries, handling missing data, accounting for inspection frequency, and addressing potential confounding factors. 
+
+**Planned Timeline**
+
+* November 13 – Submit the written project proposal 
+* November 18 – Meet to discuss the project, receive feedback, and identify any necessary adjustments 
+* December 5 – Complete all of the planned analyses/ visualization 
+* December 10– Finalize webpage and video  and team evaluations on project contributions 
+* December 12 –Submit the following: Written Report, Project Webpage and Video, Peer Assessment 
+* December 17 – In-Class Project Discussion: Present on project (key findings, methodology, etc.) 
